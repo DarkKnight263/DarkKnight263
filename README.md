@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarkKnight263
 - 👀 I’m interested in java,python,c++
-- 🌱 I’m currently learning kotlin,flutter
+- 🌱 I’m currently learning Data Science,AI,ML
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me vedant.maheshwari62@gmail.com
 
